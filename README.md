@@ -26,7 +26,7 @@ Algunos de los retos de código que encontrarás en las carpetas incluyen:
 He completado exitosamente este curso obteniendo el [Certificado Oficial de Harvard](https://cs50.harvard.edu/certificates/211ad164-b004-47ff-af44-35bc1f08f8e1).
 
 Como culminación del curso, he desarrollado un **Pipeline ETL automatizado para la Major League Baseball**. Puedes ver el código fuente, la documentación y el vídeo demostrativo en su repositorio dedicado:
-👉 []
+👉 [https://github.com/Cerque99/MLB-ETL-Pipeline]
 
 ## 📬 Contacto
 Si te interesa mi perfil para oportunidades en análisis de datos o quieres conectar, puedes encontrarme en [LinkedIn](www.linkedin.com/in/francisco-cerqueiras-dieguez-62b607422).
